@@ -2,16 +2,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=AkeemKabiru&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on KaroApp Security Webapp with Reactjs
-- 🌱 I’m currently learning Nextjs and Tailwind 
-- 👯 I’m looking to collaborate on Frontend Web and Mobile Apllication Development
 - 💬 Ask me about **Software Developement**
 - 📫 How to reach me: **kabby.dev@outlook.com**
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I breathe Afrobeat music *
 
    ## About Me
- 
  
 Experienced Frontend Engineer with expertise in JavaScript, React, Redux, Next.js, Typescript, Tailwind and other technologies. Passionate about creating engaging web experiences, optimizing performance, and ensuring cross-browser compatibility. Proven track record of delivering high-quality, scalable, and maintainable code. Adaptable in fast-paced environments and dedicated to continuous learning. Effective collaborator with a focus on exceptional user experiences.
 
