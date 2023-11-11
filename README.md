@@ -1,14 +1,11 @@
-### Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=AkeemKabiru&icon=0&color=3)](https://visitcount.itsvg.in)
-
-- 💬 Ask me about **Software Developement**
-- 📫 How to reach me: **kabby.dev@outlook.com**
-- ⚡ Fun fact: *I breathe Afrobeat music *
 
    ## About Me
  
 Experienced Frontend Engineer with expertise in JavaScript, React, Redux, Next.js, Typescript, Tailwind and other technologies. Passionate about creating engaging web experiences, optimizing performance, and ensuring cross-browser compatibility. Proven track record of delivering high-quality, scalable, and maintainable code. Adaptable in fast-paced environments and dedicated to continuous learning. Effective collaborator with a focus on exceptional user experiences.
+
+
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devkabby) 
